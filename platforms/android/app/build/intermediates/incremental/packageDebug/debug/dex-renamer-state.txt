@@ -1,4 +1,4 @@
-#Mon Mar 11 16:19:49 CAT 2019
+#Thu May 02 14:45:11 CAT 2019
 base.0=C\:\\Users\\Siya\\Documents\\CordovaApp\\QRApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
